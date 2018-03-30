@@ -1,3 +1,6 @@
 [submodule "ouc/gadgets"]
 	path = ouc/gadgets
 	url = git@github.com:omijika/ouc-gadgets.git
+[submodule "gadgets"]
+	path = gadgets
+	url = git@github.com:omijika/ouc-gadgets.git
